@@ -1,0 +1,47 @@
+_repo: A-Journal-of-the-Swedish-Embassy-in-the-Years-1653-and-1654-Vol-II._17407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitlocke, Bulstrode
+    aliases:
+    - Whitelocke, Bulstrode
+    - Whitlock, Bulstrode
+    - Whitlock, Lord
+    - Whitelock, Bulstrode
+    birthdate: 1605
+    deathdate: 1675
+    gutenberg_agent_id: '7357'
+    url: http://www.gutenberg.org/2009/agents/7357
+    wikipedia: http://en.wikipedia.org/wiki/Bulstrode_Whitelocke
+  editors:
+  - agent_name: Reeve, Henry
+    alias: Reeves, Henry
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '7359'
+    url: http://www.gutenberg.org/2009/agents/7359
+  - agent_name: Morton, Charles
+    alias: Morton, Carolus
+    birthdate: 1716
+    deathdate: 1799
+    gutenberg_agent_id: '7358'
+    url: http://www.gutenberg.org/2009/agents/7358
+description: ''
+gutenberg_issued: '2005-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Foreign relations -- Sweden'
+- !lcc 'DL'
+- !lcsh 'Sweden -- Foreign relations -- Great Britain'
+- !lcsh 'Sweden -- History -- Christina, 1632-1654'
+title: A Journal of the Swedish Embassy in the Years 1653 and 1654, Vol II.
+url: http://www.gutenberg.org/ebooks/17407
